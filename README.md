@@ -1,4 +1,6 @@
 # Speed Typing Test
+
+## Description
 ```
 This program basically test how fast you can type.
 The program will require you to type the text provided within a 1 minute type frame
